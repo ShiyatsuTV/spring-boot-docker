@@ -3,7 +3,9 @@
 ## JAVA Version 
 
 java 21.0.7 2025-04-15 LTS
+
 Java(TM) SE Runtime Environment (build 21.0.7+8-LTS-245)
+
 Java HotSpot(TM) 64-Bit Server VM (build 21.0.7+8-LTS-245, mixed mode, sharing)
 
 ## Maven version
