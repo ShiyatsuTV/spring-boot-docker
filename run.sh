@@ -1,0 +1,1 @@
+sudo docker run -d --name training-app -p 8080:8080 training-app:1.0.0
